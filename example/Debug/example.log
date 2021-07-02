@@ -1,0 +1,5 @@
+﻿  main.cpp
+E:\Github\imgui-notify\src\notify.h(189,22): warning C4018: '<' : incompatibilité signed/unsigned
+E:\Github\imgui-notify\example\main.cpp(101,7): warning C4189: 'show_demo_window' : variable locale initialisée mais non référencée
+E:\Github\imgui-notify\example\main.cpp(102,7): warning C4189: 'show_another_window' : variable locale initialisée mais non référencée
+  example.vcxproj -> E:\Github\imgui-notify\example\Debug\example.exe
